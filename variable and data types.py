@@ -2,7 +2,7 @@
 a= 123
 print(a)
 a1=9
-v="vedant"
+v="Vishwa"
 d=None
 b= bool
 r= True 
@@ -18,7 +18,7 @@ print(c1)
 print("The type of the C1 is :",type(c1))
 
 #declaring the list
-list1= ["vedant",2.5,["How are you","Kale"],0.11,"Family"]
+list1= ["Vishwa",2.5,["How are you","Kamble"],0.11,"Family"]
 print(list1)
 
 
