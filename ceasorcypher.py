@@ -1,5 +1,4 @@
 
-#Vedant Kale H3 2106090
 
 def caesar_cipher(text, shift):
     encrypted_text = ""
