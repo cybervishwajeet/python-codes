@@ -1,4 +1,3 @@
-#code by Vedant Kale H3
 def count_lower_upper(stri):
     d = {"Uppercase": 0, "lowercase": 0}
     for c in stri:
