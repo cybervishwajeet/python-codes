@@ -1,4 +1,4 @@
-#Code by Vedant Kale H3
+#Code by Vishwa
 def sanitize_list(list1):
     s=set(list1);
     ln=list(s);
