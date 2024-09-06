@@ -1,11 +1,11 @@
 #strings are immutable
-a="!!vedant!!!!!!!"
+a="!!!!Vishwa!!!!!"
 print("Length of the string is:",len(a))
 print(a.upper())
 print(a.lower())
 print(a.rstrip("!"))#it does not trails the leading characters which are for the stripping
 
-print(a.replace("vedant","John"))
+print(a.replace("Vishwa","John"))
 
 blogheading="welcome to home"
 print(blogheading.capitalize())
@@ -35,8 +35,8 @@ print("isprintable: ",str1.isprintable())
 str1="     "
 print(str1.isspace())
 
-str1="Vedant kale is a stduent"
-print(str1.startswith("Vedant"))
+str1="Vishwa is a stduent"
+print(str1.startswith("Vishwa"))
 #to replace uppercase with the lower case
 print(str1.swapcase())
 
