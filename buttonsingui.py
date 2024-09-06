@@ -1,7 +1,7 @@
 from tkinter import *
 root =Tk()
 root.geometry("655x333")
-root.title("Vedant's GUI")
+root.title("Vishwa's GUI")
 
 def hello():
     print("hello tkinter users!")
