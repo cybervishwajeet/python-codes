@@ -1,4 +1,4 @@
-name = "vedant,Pramod,Kale"
+name = "Vishwajeet,vivek,Kamble"
 print(name[0:6])#slicing
 print("Lenght of the string:",len(name))
 name1= "mango"
