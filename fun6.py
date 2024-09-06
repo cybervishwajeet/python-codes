@@ -1,4 +1,3 @@
-#code by Vedant Kale H3
 def create_list(l1,l2):
     l3=set(l1)&set(l2);
     return l3;
