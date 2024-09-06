@@ -1,7 +1,7 @@
 # String built-in functions example
 
 # 1. len() - returns the length of a string
-string = "vedant Kale!"
+string = "vishwajeet Kamble!"
 length = len(string)
 print("Length of the string:", length)
 
