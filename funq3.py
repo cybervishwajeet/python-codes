@@ -1,4 +1,5 @@
-#code by Vedant Kale H3
+#code by vishwa
+
 def generate_pascals_triangle(level):
     triangle = []
     for i in range(level):
