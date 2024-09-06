@@ -8,8 +8,8 @@ print("hello ji",7,8)
 print("Hello \n I \"am\" a good boy")#check this out
 
 #separate character
-print("Hello Vedant Your age is ",17,"And the bday month is",10,sep=":")
+print("Hello Vishwa Your age is ",19,"And the bday month is",10,sep=":")
 
 #end character & default separater is the space
 print("Welcome ",end="003\n")
-print("Vedant")
+print("Vishwa")
