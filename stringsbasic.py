@@ -7,10 +7,7 @@ print(mango)
 
 #multiline strings
 stringmul= '''\nhello how are you
-my name is vedant
-Studying in GPP
-want to conquer everything
-'''
+
 print(stringmul)
 #string manupulations
 print(apple[0])
