@@ -1,4 +1,4 @@
-#Code By Vedant Kale H3
+#Code By Vishwa
 def cal_sum_product(x1,x2,x3):
     print("The sum is:",x1+x2+x3);
     print("The product is:",x1*x2*x3);
