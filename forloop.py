@@ -1,12 +1,12 @@
 #for loop in python
-'''name = "vedant kale"
+'''name = "vishwajeet kamble"
 for i in name:
     print(i)#print(i,end=',')
     if (i=='k'):
         print("This is a special character")
 
 #
-list1= ["vedant",2.5,["How are you","Kale"],0.11,"Family"]
+list1= ["vishwa",2.5,["How are you","Kamble"],0.11,"Family"]
 for i in list1:
     print(i)
     for color in list1:
