@@ -1,4 +1,4 @@
-#code by Vedant Kale H3
+#code by Vishwa
 def tuplelist():
     result = [(x, x*2, x*3) for x in range(1, 11)]
     return result
