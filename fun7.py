@@ -1,4 +1,3 @@
-#code by Vedant Kale H3
 def sum_of_digits(n):
     if n < 10:
         return n
