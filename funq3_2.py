@@ -1,5 +1,4 @@
 # Write a function that takes an integer n and returns the n-th level of Pascal's triangle.
-#code by Vedant Kale H3
 def pascals_triangle(level):
     triangle = [[1]]
     for i in range(1, level):
